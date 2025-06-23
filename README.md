@@ -74,3 +74,38 @@ A full data analytics project combining **Python** for data cleaning and preproc
 
 ## 🧠 Risk Score Logic
 
+Risk Score = Weighted function of:
+
+Braking frequency
+
+Acceleration frequency
+
+Idle time
+
+Harsh events
+
+yaml
+Copy
+Edit
+
+- Ranges from 0 (Safe) → 100 (Risky)
+- Used to assign `RiskBand`: Low / Medium / High
+
+---
+
+## 👨‍💻 Created by
+
+**Shaik Mohammad Naseer Hussain**  
+🎓 MSc in Business Analytics, University of Liverpool  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+💻 [GitHub](https://github.com/your-username)
+
+---
+
+## 📌 Future Enhancements
+
+- Real-time data stream integration  
+- Predictive modeling on accident probability  
+- Alerts for extreme driving behavior
+
+---
